@@ -36,8 +36,7 @@ latest_posts:
 
 I study how the organization of trade and intermediation shapes market power—and how market power, in turn, reshapes trading networks. My work combines structural models with quasi-experimental variation and large-scale firm-level microdata to quantify impacts on resource allocation and productivity, and to inform the design of trade and competition policies.
 
-Before starting my Ph.D., I received my M.Phil. in Economics and B.B.A. in Global Business and Economics from the Hong Kong University of Science and Technology.  
-My current CV can be found <a href="/assets/pdf/CV_Barron_Tsai.pdf" target="_blank" rel="noopener">here</a>.
+Before starting my Ph.D., I received my M.Phil. in Economics and B.B.A. in Global Business and Economics from the Hong Kong University of Science and Technology. My current CV can be found <a href="/assets/pdf/CV_Barron_Tsai.pdf" target="_blank" rel="noopener">here</a>.
 
 I am on the 2025-26 job market.
 
