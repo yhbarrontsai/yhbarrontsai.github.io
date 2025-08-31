@@ -1,0 +1,6 @@
+/* Kill underlines and shadows for profile "more-info" links */
+.profile .more-info a {
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
