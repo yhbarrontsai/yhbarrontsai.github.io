@@ -40,5 +40,5 @@ Before starting my Ph.D., I received my M.Phil. in Economics and B.B.A. in Globa
 
 I am on the 2025-26 job market.
 
-Feel free to contact me at yiuhingbarron [dot] tsai [at] duke [dot] edu.
+Feel free to contact me at yt158 [at] duke [dot] edu.
 
