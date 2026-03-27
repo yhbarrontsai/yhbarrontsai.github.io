@@ -38,7 +38,7 @@ I study how the organization of trade and intermediation shapes market power—a
 
 Before starting my Ph.D., I received my M.Phil. in Economics and B.B.A. in Global Business and Economics from the Hong Kong University of Science and Technology. My current CV can be found <a href="/assets/pdf/CV_Barron_Tsai.pdf" target="_blank" rel="noopener">here</a>.
 
-I am on the 2025-26 job market.
+I will join the International Monetary Fund as an Economist in Fall 2026.
 
 Feel free to contact me at yt158 [at] duke [dot] edu.
 
